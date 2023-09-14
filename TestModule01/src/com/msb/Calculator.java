@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
+        int i;
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
