@@ -6,6 +6,7 @@ public class Calculator {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+        int a=0;
 
         while (true) {
             System.out.print("请输入第一个数字: ");
